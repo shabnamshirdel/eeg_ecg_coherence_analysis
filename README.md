@@ -608,12 +608,38 @@ Our analysis compares the coupling between neural oscillations (EEG power envelo
 
 ![Figure 1: direct EEG-ECG raw signal coherence analysis](figures/1_direct_eeg_ecg_coherence.png)
 
+**Figure 1.** Direct EEG–ECG raw signal coherence analysis.
+
 
 The direct EEG-ECG coherence (comparing raw waveforms) showed high peaks during the Wake (W) stage, particularly around 5-6 Hz. These peaks are likely non-physiological artifacts caused by volume conduction or muscle movement during wakefulness, rather than true brain-heart axis communication. This highlights the importance of using the HRV-based envelope method for valid results.
 
 
 
 ## HRV-Based Brain-Heart Coherence Analysis
+
+
+![Figure 2: ](figures/2_hrv_eeg_coherence.png)
+
+**Figure 2.** HRV–EEG coherence analysis in different frequencies.
+
+
+![Figure 3: ](figures/3_hrv_eeg_coherence.png)
+
+**Figure 3.** HRV–EEG coherence analysis in different sleep phases.
+
+
+![Figure 4: ](figures/4_brain_heart_coherence.png)
+
+**Figure 4.** HRV–EEG coherence mape
+
+
+
+
+
+
+
+
+
 
 ### 1. Peak Coupling During Light Sleep (N1 & N2)
 
