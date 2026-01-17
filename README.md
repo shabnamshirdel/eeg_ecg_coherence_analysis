@@ -606,11 +606,7 @@ Our analysis compares the coupling between neural oscillations (EEG power envelo
 **High coherence in the 'Direct Analysis' (Step 5) usually indicates volume conduction/artifact, whereas coherence in the 'HRV Analysis' (Step 6) indicates physiological coupling.**
 
 
-
-<figure>
-  <img src="figures/1_direct_eeg_ecg_coherence.png" alt="direct_eeg_ecg_coherence">
-  <figcaption>Figure 1: direct_eeg_ecg_coherence</figcaption>
-</figure>
+![Figure 1: direct EEG-ECG raw signal coherence analysis](figures/1_direct_eeg_ecg_coherence.png)
 
 
 The direct EEG-ECG coherence (comparing raw waveforms) showed high peaks during the Wake (W) stage, particularly around 5-6 Hz. These peaks are likely non-physiological artifacts caused by volume conduction or muscle movement during wakefulness, rather than true brain-heart axis communication. This highlights the importance of using the HRV-based envelope method for valid results.
